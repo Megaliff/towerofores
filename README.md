@@ -7,6 +7,10 @@ Also, for it to run properly, it requires 'Heart of Ender' and 'Ice and Fire' mo
 
 Also what u find here won't be the source code but the mod files you can use in your game. 
 
+This repo will update as I add more stuff in it
+
 ehh ig dats it
+
+
 
 
